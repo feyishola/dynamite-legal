@@ -1,0 +1,20 @@
+HTTrack3.49-5 launched on Thu, 02 Jan 2025 15:03:00 at https://demo.egenslab.com/html/corelaw/preview/index3.html
+(winhttrack https://demo.egenslab.com/html/corelaw/preview/index3.html -O "/home/feyishola/Desktop/mydev/Codeplay/httracks/legal3" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:08:22	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/corelaw/preview/assets/css/images/ui-icons_444444_256x240.png (from https://demo.egenslab.com/html/corelaw/preview/assets/css/jquery-ui.css)
+15:08:22	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/corelaw/preview/assets/css/images/ui-icons_555555_256x240.png (from https://demo.egenslab.com/html/corelaw/preview/assets/css/jquery-ui.css)
+15:08:22	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/corelaw/preview/assets/css/images/ui-icons_ffffff_256x240.png (from https://demo.egenslab.com/html/corelaw/preview/assets/css/jquery-ui.css)
+15:08:22	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/corelaw/preview/assets/css/images/ui-icons_777620_256x240.png (from https://demo.egenslab.com/html/corelaw/preview/assets/css/jquery-ui.css)
+15:08:22	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/corelaw/preview/assets/css/images/ui-icons_cc0000_256x240.png (from https://demo.egenslab.com/html/corelaw/preview/assets/css/jquery-ui.css)
+15:08:22	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/corelaw/preview/assets/css/images/ui-icons_777777_256x240.png (from https://demo.egenslab.com/html/corelaw/preview/assets/css/jquery-ui.css)
+15:08:22	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/corelaw/preview/assets/css/ajax-loader.gif (from https://demo.egenslab.com/html/corelaw/preview/assets/css/slick-theme.css)
+15:08:22	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/corelaw/preview/blod-details.html (from https://demo.egenslab.com/html/corelaw/preview/about.html)
+15:08:22	Error: 	"Forbidden" (403) at link https://demo.egenslab.com/html/corelaw/preview/case-datails.html (from https://demo.egenslab.com/html/corelaw/preview/case-study1.html)
+
+HTTrack Website Copier/3.49-5 mirror complete in 5 minutes 22 seconds : 246 links scanned, 236 files written (23683199 bytes overall) [18459751 bytes received at 57328 bytes/sec], 8353810 bytes transferred using HTTP compression in 117 files, ratio 34%, 22.3 requests per connection
+(9 errors, 0 warnings, 0 messages)
